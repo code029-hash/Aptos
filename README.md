@@ -1,8 +1,6 @@
 # Antikythera
 
 - [Website](https://antikythera.io/)
-- [Project Twitter](https://x.com/antikythera_io)
-- [DoraHacks BUIDL](https://dorahacks.io/buidl/17612)
 
 ## The Aptos Agent Kit (AAK)
 
